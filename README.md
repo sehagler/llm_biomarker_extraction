@@ -6,7 +6,7 @@ Objective:  Much medical data is only available in unstructured electronic healt
 
 Methods:  We developed an NLP pipeline using an off-the-shelf open LLM to extract breast cancer ER, PR, and HER2 biomarker data. Pipeline development stopped when the prompts’ performances were competitive with manual extraction. The development time and extraction performance were compared to those of an existing rule-based (RB) NLP pipeline.
 
-Results:  The LLM pipeline produced performance competitive with manual data extraction with a hands-on development time that was $\sim$38\% that of the RB pipeline.
+Results:  The LLM pipeline produced performance competitive with manual data extraction with a hands-on development time that was ~38% that of the RB pipeline.
 
 Discussion:  LLMs exhibit lower hands-on development costs compared to standard NLP techniques, but require significant and potentially costly computation resources.
 
